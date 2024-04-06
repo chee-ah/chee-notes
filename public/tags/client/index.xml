@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Client on Chee&#39;s Notes</title>
-    <link>//localhost:1313/tags/client/</link>
+    <link>//localhost:61515/tags/client/</link>
     <description>Recent content in Client on Chee&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Chee Ah</copyright>
-    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/client/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:61515/tags/client/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Webserver in Container Using Python and Updog</title>
-      <link>//localhost:1313/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/</link>
+      <link>//localhost:61515/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/</guid>
+      <guid>//localhost:61515/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/</guid>
       <description>Build a webserver in a container # Create a brand new debian container which exposes port 9090 on the local machine</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:61515/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/featured.png" />
     </item>
     
   </channel>
