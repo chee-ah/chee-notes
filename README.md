@@ -4,12 +4,12 @@ This repo deploys a static site built with Hugo, with the Blowfish theme, and de
 
 ## Build locally
 
-install hugo
+Install hugo
 ```bash
 brew install hugo
 ```
 
-clone the repo
+Clone the repo
 ```bash
 git clone git@github.com:chee-ah/chee-notes.git
 cd chee-notes
