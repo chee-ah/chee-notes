@@ -19,3 +19,4 @@ Build the site and open in browser
 ```bash
 open http://localhost:1313/ && hugo server
 ```
+
