@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Chee&#39;s Study Notes</title>
+    <link>http://localhost:1313/categories/linux/</link>
+    <description>Recent content in Linux on Chee&#39;s Study Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Chee Ah</copyright>
+    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LPI - Linux Essentials Study Notes</title>
+      <link>http://localhost:1313/linux/1712412639739-linux-essentials/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/linux/1712412639739-linux-essentials/</guid>
+      <description>Work Container # create a brand new docker container with debian</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/linux/1712412639739-linux-essentials/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

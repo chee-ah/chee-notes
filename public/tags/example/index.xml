@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Chee&#39;s Notes</title>
+    <link>//localhost:1313/tags/example/</link>
+    <description>Recent content in Example on Chee&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Chee Ah</copyright>
+    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build a Simple Linux Environment with Docker</title>
+      <link>//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
