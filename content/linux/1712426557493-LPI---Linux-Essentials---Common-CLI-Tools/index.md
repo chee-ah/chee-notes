@@ -84,7 +84,9 @@ mkdir   make directory (creates a new directory)
 touch   creates an empty file
 ```
 
-## Change directory
+## Cd
+
+Change directory
 ```bash
 cd      with nothing after also means go home
 cd ~    go home
@@ -92,7 +94,9 @@ cd ..   go up in the directory structure: parent folder
 cd -    go back in time: previous folder
 ```
 
-## List files or directories
+## Ls
+
+List files or directories
 ```bash
 ls      list with no options
 ls -a   list all (including hidden dot files)
@@ -102,13 +106,17 @@ ls -R   list recursively (all child folders contents)
 ls -aR  list recursively and hidden files too
 ```
 
-## Copy files or directories
+## Cp
+
+Copy files or directories
 ```bash
 cp          copy takes 2 arguments, source (src) and destination (dst)
 cp src dst  would make a copy of 'src' into 'dst'
 ```
 
-## Move files or directories
+## Mv
+
+Move files or directories
 ```bash
 mv          copy takes 2 arguments, source (src) and destination (dst)
 mv src dst  would transform (rename) 'src' into 'dst'
@@ -123,6 +131,7 @@ cat filename.txt
 
 ## Cut
 
+Cut can be used to manipulate (cut) files
 ```bash
 cat chee.txt 
 hello my name is chee and i'm learning to make spagettis
@@ -320,5 +329,3 @@ unpack (extract) the archive
 ```bash
 tar -xvzf archive-name.tar.gz
 ```
-
-

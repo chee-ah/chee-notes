@@ -2,41 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Essentials on Chee&#39;s Notes</title>
-    <link>//localhost:61515/tags/linux-essentials/</link>
+    <link>//localhost:1313/tags/linux-essentials/</link>
     <description>Recent content in Linux Essentials on Chee&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Chee Ah</copyright>
-    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:61515/tags/linux-essentials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/linux-essentials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LPI - Linux Essentials - Common CLI Tools</title>
-      <link>//localhost:61515/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</link>
+      <link>//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</guid>
-      <description>CLI (Command Line Interface) Basics # Basic concepts: # Everything in linux is always case sensitive</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:61515/linux/1712426557493-lpi---linux-essentials---common-cli-tools/featured.png" />
+      <guid>//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</guid>
+      <description>CLI (Command Line Interface) Basics Basic concepts: Everything in linux is always case sensitive</description>
     </item>
-    
     <item>
       <title>LPI - Linux Essentials - Shell Redirects</title>
-      <link>//localhost:61515/linux/1712426570291-lpi---linux-essentials---shell-redirects/</link>
+      <link>//localhost:1313/linux/1712426570291-lpi---linux-essentials---shell-redirects/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/linux/1712426570291-lpi---linux-essentials---shell-redirects/</guid>
-      <description>Shell Redirects # A program always has the following:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:61515/linux/1712426570291-lpi---linux-essentials---shell-redirects/featured.png" />
+      <guid>//localhost:1313/linux/1712426570291-lpi---linux-essentials---shell-redirects/</guid>
+      <description>Shell Redirects A program always has the following:</description>
     </item>
-    
     <item>
       <title>LPI - Linux Essentials - The Basics</title>
-      <link>//localhost:61515/linux/1712426513705-lpi---linux-essentials---the-basics/</link>
+      <link>//localhost:1313/linux/1712426513705-lpi---linux-essentials---the-basics/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/linux/1712426513705-lpi---linux-essentials---the-basics/</guid>
-      <description>Basic Commands # - touch - create file - pwd - previous working directory - cd - change directory (move home if no option) - cd .</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:61515/linux/1712426513705-lpi---linux-essentials---the-basics/featured.png" />
+      <guid>//localhost:1313/linux/1712426513705-lpi---linux-essentials---the-basics/</guid>
+      <description>Basic Commands - touch - create file - pwd - previous working directory - cd - change directory (move home if no option) - cd .</description>
     </item>
-    
   </channel>
 </rss>

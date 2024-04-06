@@ -1,52 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
-    <loc>//localhost:61515/docker/1712428934236-build-a-simple-linux-environment-with-docker/</loc>
+    <loc>//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:61515/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/</loc>
+  </url><url>
+    <loc>//localhost:1313/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:61515/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:61515/docker/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/client/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:61515/linux/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/docker/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:61515/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</loc>
+  </url><url>
+    <loc>//localhost:1313/docker/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:61515/linux/1712426570291-lpi---linux-essentials---shell-redirects/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/linux/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:61515/linux/1712426513705-lpi---linux-essentials---the-basics/</loc>
+  </url><url>
+    <loc>//localhost:1313/linux/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/tags/linux-essentials/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/tags/lpi/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/series/lpi---linux-essentials/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/linux/1712426570291-lpi---linux-essentials---shell-redirects/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/linux/1712426513705-lpi---linux-essentials---the-basics/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/series/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/tags/server/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/tags/study-notes/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/tags/test-environment/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/tags/updog/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

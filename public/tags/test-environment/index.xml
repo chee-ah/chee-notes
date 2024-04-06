@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test Environment on Chee&#39;s Notes</title>
-    <link>//localhost:61515/tags/test-environment/</link>
+    <link>//localhost:1313/tags/test-environment/</link>
     <description>Recent content in Test Environment on Chee&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Chee Ah</copyright>
-    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:61515/tags/test-environment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/test-environment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Simple Linux Environment with Docker</title>
-      <link>//localhost:61515/docker/1712428934236-build-a-simple-linux-environment-with-docker/</link>
+      <link>//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/docker/1712428934236-build-a-simple-linux-environment-with-docker/</guid>
-      <description>Make a Linux test environment in Docker # Apple&amp;rsquo;s macOS is a Unix-like system, based on BSD, and as such is very similar to Linux.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:61515/docker/1712428934236-build-a-simple-linux-environment-with-docker/featured.png" />
+      <guid>//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/</guid>
+      <description>Make a Linux test environment in Docker Apple&amp;rsquo;s macOS is a Unix-like system, based on BSD, and as such is very similar to Linux.</description>
     </item>
-    
   </channel>
 </rss>

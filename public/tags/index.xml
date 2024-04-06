@@ -2,101 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chee&#39;s Notes</title>
-    <link>//localhost:61515/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Chee&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Chee Ah</copyright>
-    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:61515/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Client</title>
-      <link>//localhost:61515/tags/client/</link>
+      <link>//localhost:1313/tags/client/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/tags/client/</guid>
+      <guid>//localhost:1313/tags/client/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Docker</title>
-      <link>//localhost:61515/tags/docker/</link>
+      <link>//localhost:1313/tags/docker/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/tags/docker/</guid>
+      <guid>//localhost:1313/tags/docker/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Linux</title>
-      <link>//localhost:61515/tags/linux/</link>
+      <link>//localhost:1313/tags/linux/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/tags/linux/</guid>
+      <guid>//localhost:1313/tags/linux/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Linux Essentials</title>
-      <link>//localhost:61515/tags/linux-essentials/</link>
+      <link>//localhost:1313/tags/linux-essentials/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/tags/linux-essentials/</guid>
+      <guid>//localhost:1313/tags/linux-essentials/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>LPI</title>
-      <link>//localhost:61515/tags/lpi/</link>
+      <link>//localhost:1313/tags/lpi/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/tags/lpi/</guid>
+      <guid>//localhost:1313/tags/lpi/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Server</title>
-      <link>//localhost:61515/tags/server/</link>
+      <link>//localhost:1313/tags/server/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/tags/server/</guid>
+      <guid>//localhost:1313/tags/server/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Study Notes</title>
-      <link>//localhost:61515/tags/study-notes/</link>
+      <link>//localhost:1313/tags/study-notes/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/tags/study-notes/</guid>
+      <guid>//localhost:1313/tags/study-notes/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Test Environment</title>
-      <link>//localhost:61515/tags/test-environment/</link>
+      <link>//localhost:1313/tags/test-environment/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/tags/test-environment/</guid>
+      <guid>//localhost:1313/tags/test-environment/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title>Updog</title>
-      <link>//localhost:61515/tags/updog/</link>
+      <link>//localhost:1313/tags/updog/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:61515/tags/updog/</guid>
+      <guid>//localhost:1313/tags/updog/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>
