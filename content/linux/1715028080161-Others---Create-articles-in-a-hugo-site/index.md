@@ -97,74 +97,65 @@ open featured.png
 
 ## Write Markdown
 
-Cool so we're now done playing with the blowfish tools, to create the skeleton of our article. Now all that's left to do is to put some flesh on it, namely, write the content of the article... Here's a quick `markdown` cheat sheet:
+Cool so we're now done playing with the blowfish tools, to create the skeleton of our article. Now all that's left to do is to put some flesh on it, namely, write the content of the article... Here's a quick `markdown` cheat sheet, for this entire section, just look at the raw source to see how it was done in markdown.
 
 ### Code blocks
 
 Code blocks are done like so:
-```
 ```python
 while true:
     print("I can write code I swear")
 ```
-```
 
 We can choose different language based on what we're writing in order to choose the correct syntax highlighting lexer
-```
 ```bash
 while true; do
     printf "I can write code I swear";
 done
 ```
-```
 
 or specify to use no lexer if what we write isn't actually valid code, or if we don't want syntax highlighting 
-```
 ```
 - just trying to convey some ideas in a bullet point form here
 - yep yep
 - yep
 ```
-```
 
 ### Bullet points
 
-```
 * one
 * two
 * three
-```
-```
+
 - one
 - two
 - three
-```
-```
+
 1. one
 2. itwo
 3. three
-```
+
+### Hyperlinks
+
+[apple.com](https://apple.com)  
+[chee-ah.github.io/chee-notes/](https://chee-ah.github.io/chee-notes/)  
 
 ### Checkboxes
-```
+
 - [ ] (for unchecked checkbox)
 - [x] (for checked checkbox)
-```
 
 ### Headings
-```
+
 # h1
 ## h2
 ### h3
 #### h4
-```
 
 ### Bold / Italic
 
-```
 **bold**
 *italic*
-```
 
 There's a lot more we can do with markdown, but it's a good start I think.
 
@@ -176,31 +167,8 @@ git add -u
 git status
 git add content/linux/1715028080161-Others---Create-articles-in-a-hugo-site/
 git add content/linux/1715029765425-Others---Notes-about-the-bash-shell/
+git status
+git commit -m "Add two new articles"
 ```
 
-```bash
-```
-
-```bash
-```
-
-```bash
-```
-
-```bash
-```
-
-```bash
-```
-
-```bash
-```
-
-```bash
-```
-
-```bash
-```
-
-
-
+Once we push, there's some `GitHub Actions` `CI/CD` pipeline setup in the repo which will build and publish our website with hugo. Allow it a few minutes to run and our website should show up published with the new articles in a few minutes
