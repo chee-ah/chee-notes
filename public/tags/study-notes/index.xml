@@ -6,8 +6,15 @@
     <description>Recent content in Study Notes on Chee&#39;s Notes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/study-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LPI - Linux Essentials - System Architecture</title>
+      <link>//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/</guid>
+      <description>Create a multipass: brew install multipass multipass list multipass shell chee-vm Log out: Control D =&amp;gt; back:</description>
+    </item>
     <item>
       <title>LPI - Linux Essentials - Common CLI Tools</title>
       <link>//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</link>

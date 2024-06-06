@@ -6,8 +6,29 @@
     <description>Recent content on Chee&#39;s Notes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LPI - Linux Essentials - System Architecture</title>
+      <link>//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/</guid>
+      <description>Create a multipass: brew install multipass multipass list multipass shell chee-vm Log out: Control D =&amp;gt; back:</description>
+    </item>
+    <item>
+      <title>Others - Create articles in a hugo site</title>
+      <link>//localhost:1313/linux/1715028080161-others---create-articles-in-a-hugo-site/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/linux/1715028080161-others---create-articles-in-a-hugo-site/</guid>
+      <description>Create articles in a hugo site In these notes we&amp;rsquo;ll describe the process of writing and publishing a new article in for this here website.</description>
+    </item>
+    <item>
+      <title>Others - Notes about the bash shell</title>
+      <link>//localhost:1313/linux/1715029765425-others---notes-about-the-bash-shell/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/linux/1715029765425-others---notes-about-the-bash-shell/</guid>
+      <description>Bash Shells Different types of Shells There are different types of shells in linux, popular ones are:</description>
+    </item>
     <item>
       <title>Build a Simple Linux Environment with Docker</title>
       <link>//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/</link>
