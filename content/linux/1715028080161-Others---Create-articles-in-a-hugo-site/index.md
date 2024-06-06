@@ -169,6 +169,7 @@ git add content/linux/1715028080161-Others---Create-articles-in-a-hugo-site/
 git add content/linux/1715029765425-Others---Notes-about-the-bash-shell/
 git status
 git commit -m "Add two new articles"
+git push
 ```
 
 Once we push, there's some `GitHub Actions` `CI/CD` pipeline setup in the repo which will build and publish our website with hugo. Allow it a few minutes to run and our website should show up published with the new articles in a few minutes
