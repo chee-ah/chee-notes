@@ -157,6 +157,15 @@ or specify to use no lexer if what we write isn't actually valid code, or if we 
 **bold**
 *italic*
 
+### Tables
+
+
+| what   | where                       | conceptually | example          |
+| ------ | --------------------------- | ------------ | ---------------- |
+| memory | ram (random access memeory) | ephemeral    | program variable |
+| disk   | file system                 | persistent   | file             |
+
+
 There's a lot more we can do with markdown, but it's a good start I think.
 
 ## Publishing the article
