@@ -140,6 +140,11 @@ as a prefix to any other command in linux, example: (q to quit)
 man uname
 ```
 
+A really useful trick with the man page, is to know how to search, it's quite simple, once you are in the manual page
+you can use the character `/` to say search, and then the search term you are interested in.
+So for instance in the ls man pages try to search for human-readable like this: `/human-readable` then press enter
+and see if you can find what the correct options is to do that.
+
 ## Basic Commands
 ```
 - echo 'hi' - write something on screen
