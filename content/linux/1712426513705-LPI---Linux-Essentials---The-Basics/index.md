@@ -58,6 +58,15 @@ for some commands we already learned about, and many, many more.
 ls -la /usr/bin
 ```
 
+Another very useful command to know about is the `which` command. It tells you which is the path of the
+binary for any command, so in other words where is it in the filesystem, so if you check a few of the commands
+you already know about you will se that in Debian, a lot of them are in `/usr/bin`
+```bash
+which ls
+which uname
+which which
+```
+
 ## Command structure
 
 In Linux cli commands are relatively homogenous convention. The command is always at the beginning of the line
@@ -151,6 +160,7 @@ man uname
 - uname -a  - show all system version info
 - uname -r  - show system release version info
 - env       - display all the environment variables in the current shell
+- which ls  - see what is the the actual path for a given command, ls for instance here
 ```
 
 ## Brew to Install New Things on a Mac
