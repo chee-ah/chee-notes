@@ -55,7 +55,7 @@ echo haha > file
 - so it's overwriting the file every time
 ```
              ---------
-            |         | ---> stdout  ---> file
+            |         | ---> stdout  ---> file (overwrite)
  stdin ---> | Program | 
             |         | ---> stderr
              ---------
@@ -76,7 +76,7 @@ echo haha >> file
 - so it's NOT overwriting the file, it's appending to it every time
 ```
              ---------
-            |         | ---> stdout  ---> file
+            |         | ---> stdout  ---> file (append)
  stdin ---> | Program | 
             |         | ---> stderr
              ---------

@@ -17,7 +17,7 @@ tags:
 
 ## Basic concepts:
 
-Everything in linux is always case sensitive
+Everything in linux is always case-sensitive
 ```
 .            means current directory
 ..           means parent directory
@@ -37,15 +37,24 @@ drwxrwxrwx
 ```
 
 ## Options vs Arguments
-The input or stdin of a command line interface (cli) generaly is given in the form of arguments. Those arguments can be either positionnal or optional. Most of the time when you look at the help for a program there is a usage description at the very top, this shows you what the program expects, e.g. how many positional arguments there should be. generally positional arguments are mandatory, and optional arguments are optional... duh
+We've already explained this in the Basics, but here it is again, sometimes, it helps
+re-wording things a little bit.
 
-This is not always enforced, but a good practice is to have the options right after the program name and the positionnal after.
+The input or stdin of a command line interface (cli) generally is given in the form of arguments.
+Those arguments can be either positional or optional. Most of the time when you look at the help for
+a program there is a usage description at the very top, this shows you what the program expects,
+e.g. how many positional arguments there should be. generally positional arguments are mandatory,
+and optional arguments are optional.
+
+This is not always enforced, but a good practice is to have the options right after the program name
+and the positional after.
 ```
 - positional
 - optional
 ```
 
-The optional arguments start with a dash and one letter. One letter is the short form. But sometimes, (not always) they also have a long form, denoted with a double dash --
+The optional arguments start with a dash and one letter. One letter is the short form. But sometimes,
+(not always) they also have a long form, denoted with a double dash --
 
 Examples:
 ```
@@ -134,7 +143,7 @@ cat filename.txt
 Cut can be used to manipulate (cut) files
 ```bash
 cat chee.txt 
-hello my name is chee and i'm learning to make spagettis
+hello my name is chee and i'm learning to make spaghetti
 ```
 ```bash
 cat chee.txt | cut -d ' ' -f 1
@@ -150,7 +159,7 @@ name
 ```
 ```bash
 cat chee.txt | cut -d ' ' -f 3-
-name is chee and i'm learning to make spagettis
+name is chee and i'm learning to make spaghetti
 ```
 ```bash
 at chee.txt | cut -d ' ' -f -3
