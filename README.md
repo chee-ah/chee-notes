@@ -15,8 +15,12 @@ git clone git@github.com:chee-ah/chee-notes.git
 cd chee-notes
 ```
 
-Build the site and open in browser
+Build the site locally
 ```bash
-open http://localhost:1313/ && hugo server
+hugo server
 ```
 
+Open the site from another browser
+```bash
+open http://localhost:1313
+```

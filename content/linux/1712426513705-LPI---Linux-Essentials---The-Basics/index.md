@@ -13,20 +13,49 @@ tags:
 - Study Notes
 ---
 
+
 ## Basic Commands
 ```
-- touch   - create file
-- pwd     - previous working directory
-- cd      - change directory (move home if no option)
-- cd ..   - move up a directoryB
-- cd -    - move back to the previous directory
-- mkdir   - make directory
-- ls      - list
-- ls -l   - list in list format
-- ls -la  - list all the files including hidden (dot files)
-- ls -lt  - list sorted by time
-- ls -ltr - list sorted by time and reversed
+- echo 'hi' - write something on screen
+- touch     - create file
+- pwd       - previous working directory
+- cd        - change directory (move home if no option)
+- cd ..     - move up a directoryB
+- cd -      - move back to the previous directory
+- mkdir     - make directory
+- ls        -  list
+- ls -l     - list in list format
+- ls -la    - list all the files including hidden (dot files)
+- ls -lt    - list sorted by time
+- ls -ltr   - list sorted by time and reversed
+- which     - find where a command's binary is on the filesystem
+- date      - show the date
+- uname     - show system version info
+- uname -a  - show all system version info
+- uname -r  - show system release version info
 ```
+
+## Variables
+
+Our shell (bash) stores variables, variables are memory addresses where information is
+stored for later use. We can use the `env` command to show all variables currently
+defined in our shell.
+```bash
+env
+```
+
+## Command locations and the $PATH Variable
+
+In Linux everything is a file, even commands. So they are somewhere on the
+filesystem just like any other file.
+
+The system uses a variable called `$PATH` which is basically a place that remembers
+all the filesystem paths where Linux will look for commands it can execute.
+We can display the content of the variable.
+
+## Command structure
+
+
 
 ## Brew to Install New Things on a Mac
 ```

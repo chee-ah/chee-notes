@@ -4,37 +4,59 @@
     <title>LPI - Linux Essentials on Chee&#39;s Notes</title>
     <link>//localhost:1313/series/lpi---linux-essentials/</link>
     <description>Recent content in LPI - Linux Essentials on Chee&#39;s Notes</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/series/lpi---linux-essentials/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/series/lpi---linux-essentials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LPI - Linux Essentials - Swap</title>
+      <link>//localhost:1313/linux/1724441668892-lpi---linux-essentials---swap/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/linux/1724441668892-lpi---linux-essentials---swap/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1724441668892-lpi---linux-essentials---swap/featured.png" />
+    </item>
+    
     <item>
       <title>LPI - Linux Essentials - System Architecture</title>
       <link>//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/</guid>
-      <description>Create a multipass: brew install multipass multipass list multipass shell chee-vm Log out: Control D =&amp;gt; back:</description>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/featured.png" />
     </item>
+    
     <item>
       <title>LPI - Linux Essentials - Common CLI Tools</title>
       <link>//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</guid>
-      <description>CLI (Command Line Interface) Basics Basic concepts: Everything in linux is always case sensitive</description>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/featured.png" />
     </item>
+    
     <item>
       <title>LPI - Linux Essentials - Shell Redirects</title>
       <link>//localhost:1313/linux/1712426570291-lpi---linux-essentials---shell-redirects/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/linux/1712426570291-lpi---linux-essentials---shell-redirects/</guid>
-      <description>Shell Redirects A program always has the following:</description>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1712426570291-lpi---linux-essentials---shell-redirects/featured.png" />
     </item>
+    
     <item>
       <title>LPI - Linux Essentials - The Basics</title>
       <link>//localhost:1313/linux/1712426513705-lpi---linux-essentials---the-basics/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/linux/1712426513705-lpi---linux-essentials---the-basics/</guid>
-      <description>Basic Commands - touch - create file - pwd - previous working directory - cd - change directory (move home if no option) - cd .</description>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1712426513705-lpi---linux-essentials---the-basics/featured.png" />
     </item>
+    
   </channel>
 </rss>

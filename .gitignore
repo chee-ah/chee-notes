@@ -1,5 +1,12 @@
+.idea
 *.swp
 *.vscode
 public/*
 .hugo_build.lock
 .DS_Store
+go.mod
+node_modules/
+package-lock.json
+package.json
+resources/*
+public/*

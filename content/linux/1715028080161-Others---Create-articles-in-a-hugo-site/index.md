@@ -168,6 +168,30 @@ or specify to use no lexer if what we write isn't actually valid code, or if we 
 
 There's a lot more we can do with markdown, but it's a good start I think.
 
+## Preview new pages locally
+
+We might want to preview pages locally before publishing, here's how:
+
+Once we wrote a new article, we just need to make sure we navigate backc to the root of the repo
+```bash
+pwd
+```
+```
+/Users/chee/chee-notes
+```
+
+And once we're there we can simply run
+```bash
+hugo server
+```
+
+It will launch a local webserver with the development version of our site at [http://localhost:1313](http://localhost:1313)
+we can navigate to it in a browser directly, or run:
+```bash
+open http://localhost:1313
+```
+
+
 ## Publishing the article
 
 Now assuming we did everything right and wrote our article in valid markdown, all that's left to do is to publish the article. For this we need to use github.
