@@ -11,6 +11,8 @@ tags:
 - Linux Essentials
 - Linux
 - Study Notes
+- Shell Redirects
+- Redirects
 ---
 
 # Shell Redirects
