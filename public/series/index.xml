@@ -4,19 +4,16 @@
     <title>Series on Chee&#39;s Notes</title>
     <link>//localhost:1313/series/</link>
     <description>Recent content in Series on Chee&#39;s Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LPI - Linux Essentials</title>
       <link>//localhost:1313/series/lpi---linux-essentials/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/series/lpi---linux-essentials/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>

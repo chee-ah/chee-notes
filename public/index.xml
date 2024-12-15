@@ -4,109 +4,79 @@
     <title>Chee&#39;s Notes</title>
     <link>//localhost:1313/</link>
     <description>Recent content on Chee&#39;s Notes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Others - Create a Virtual Machine in VirtualBox</title>
       <link>//localhost:1313/linux/1733052226223-others---create-a-virtual-machine-in-virtualbox/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/linux/1733052226223-others---create-a-virtual-machine-in-virtualbox/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1733052226223-others---create-a-virtual-machine-in-virtualbox/featured.png" />
     </item>
-    
     <item>
       <title>LPI - Linux Essentials - Swap</title>
       <link>//localhost:1313/linux/1724441668892-lpi---linux-essentials---swap/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/linux/1724441668892-lpi---linux-essentials---swap/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1724441668892-lpi---linux-essentials---swap/featured.png" />
     </item>
-    
     <item>
       <title>LPI - Linux Essentials - System Architecture</title>
       <link>//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1717706307788-lpi---linux-essentials---system-architecture/featured.png" />
     </item>
-    
     <item>
       <title>Others - Create articles in a hugo site</title>
       <link>//localhost:1313/linux/1715028080161-others---create-articles-in-a-hugo-site/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/linux/1715028080161-others---create-articles-in-a-hugo-site/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1715028080161-others---create-articles-in-a-hugo-site/featured.png" />
     </item>
-    
     <item>
       <title>Others - Notes about the bash shell</title>
       <link>//localhost:1313/linux/1715029765425-others---notes-about-the-bash-shell/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/linux/1715029765425-others---notes-about-the-bash-shell/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1715029765425-others---notes-about-the-bash-shell/featured.png" />
     </item>
-    
     <item>
       <title>Build a Simple Linux Environment with Docker</title>
       <link>//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docker/1712428934236-build-a-simple-linux-environment-with-docker/featured.png" />
     </item>
-    
     <item>
       <title>Build a Webserver in Container Using Python and Updog</title>
       <link>//localhost:1313/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docker/1712413791271-build-a-webserver-in-a-debian-container-using-python-and-updog/featured.png" />
     </item>
-    
     <item>
       <title>LPI - Linux Essentials - Common CLI Tools</title>
       <link>//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1712426557493-lpi---linux-essentials---common-cli-tools/featured.png" />
     </item>
-    
     <item>
       <title>LPI - Linux Essentials - Shell Redirects</title>
       <link>//localhost:1313/linux/1712426570291-lpi---linux-essentials---shell-redirects/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/linux/1712426570291-lpi---linux-essentials---shell-redirects/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1712426570291-lpi---linux-essentials---shell-redirects/featured.png" />
     </item>
-    
     <item>
       <title>LPI - Linux Essentials - The Basics</title>
       <link>//localhost:1313/linux/1712426513705-lpi---linux-essentials---the-basics/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>//localhost:1313/linux/1712426513705-lpi---linux-essentials---the-basics/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/linux/1712426513705-lpi---linux-essentials---the-basics/featured.png" />
     </item>
-    
   </channel>
 </rss>

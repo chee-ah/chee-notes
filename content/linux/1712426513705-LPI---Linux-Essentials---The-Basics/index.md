@@ -275,3 +275,72 @@ pip install updog
 - leader + up     = go up
 - leader + down   = go down
 ```
+
+## Uname
+Uname gives you info about the kernel and its version
+```bash
+uname
+uname -h
+uname -a
+uname -r
+```
+
+## Systemd
+Targets you need to know
+- runlevel 3 means multi-user: only everything needed for a non graphical system is loaded.
+- runlevel 5 means graphical: everything needed for a ui is loaded.
+
+All other targets
+- runlevel 0 -> poweroff.target
+- runlevel 1 -> rescue.target
+- runlevel 2 -> multi-user.target
+- runlevel 3 -> multi-user.target
+- runlevel 4 -> multi-user.target
+- runlevel 5 -> graphical.target
+- runlevel 6 -> reboot.target
+
+
+Systemd targets are also called runlevel, on old systems you can check them with the `runlevel` command
+```bash
+runlevel
+```
+
+On new systems you can check with 
+```bash
+systemctl get-default
+systemctl set-default multi-user.target
+systemctl set-default graphical.target
+```
+
+## Filetypes
+
+In linux everyting is a file here are some file types
+```
+- Character files: file with actual text
+- Block files:     cannot be read directly with a text editor, like a disk or a cd rom
+- Soft links:      a logical pointer to a real file, kinda like a shortcut
+- Hard links:      it's like a soft link except both pointers are the real file, it just has 2 real addresses
+- Sockets:         you can think of it like a pipe, if you send data on the pipe whoever listens on the other end can read it
+- Directories:     a place where you can organize, or group files, 
+```
+
+The file utility will tell you what a file type is
+```bash
+file /my-file
+```
+
+Typical directories you'll see at the root of a Linux filesystem
+```
+- /mnt   : mounts is the place where Linux organizes mounts (links to disks)
+- /usr   : Unix System Resources, things owned by the UNIX system (Linux)
+- /bin   : Binaries so tools, most tools or commands are here, but they could also be in /usr
+- /var   : Variables, things like log files
+- /opt   : Optional, typically a place to put things installed manually by the user
+- /media : CD roms, media controllers (you'll never use it in a corporate environment)
+- /lib   : Libraries, the code that software needs to use to work
+- /home  : Where the users homes are 
+- /etc   : Et cetera, mostly configuration files, for pretty much anything
+- /dev   : The real locations of block devices, like disk, ram and so on
+- /boot  : Bootloader, the entry point to the BIOS, things like GRUB
+- /tmp   : Temporary, this is where we put files that we don't wanna keep, they get cleaned over time
+```
